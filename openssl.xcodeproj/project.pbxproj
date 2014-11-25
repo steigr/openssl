@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		266BFA111A251AF80062B37D /* compile.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = compile.sh; sourceTree = "<group>"; };
+		26DF87151A251E720028726A /* openssl.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = openssl.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		266BFA061A251AD90062B37D = {
 			isa = PBXGroup;
 			children = (
+				26DF87151A251E720028726A /* openssl.framework */,
 				266BFA111A251AF80062B37D /* compile.sh */,
 			);
 			sourceTree = "<group>";
@@ -179,6 +181,7 @@
 				266BFA101A251AD90062B37D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
