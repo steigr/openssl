@@ -1,0 +1,6 @@
+files/**/*
+*.log
+build/**/*
+dist/**/*
+**/.DS_Store
+*.framework

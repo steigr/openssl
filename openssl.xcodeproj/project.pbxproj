@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		266BFA111A251AF80062B37D /* compile.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = compile.sh; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		266BFA061A251AD90062B37D = {
 			isa = PBXGroup;
 			children = (
+				266BFA111A251AF80062B37D /* compile.sh */,
 			);
 			sourceTree = "<group>";
 		};
